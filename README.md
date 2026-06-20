@@ -31,7 +31,7 @@ To use dreamGPT, you will need to have the following installed:
 
 ## Setup
 
-- Clonse the dreamGPT repository from GitHub:
+- Clone the dreamGPT repository from GitHub:
   - `git clone https://github.com/DivergentAI/dreamGPT.git`
 - Rename `.env.example` to `.env` and fill in the values.
   - `OPENAI_API_KEY`: Your OpenAI API key.
